@@ -1,2 +1,1 @@
-# stack
-bài tập stack
+# binary static to reverse shell
